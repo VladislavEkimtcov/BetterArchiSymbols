@@ -1,0 +1,2 @@
+# BetterArchiSymbols
+Improved Archi icons
