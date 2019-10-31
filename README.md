@@ -20,7 +20,7 @@ Before...
 
 1. Install the Specialization plugin
 
-2. Copy the \*.png files to Archi's plugin/com.archimatetool.editor folder
+2. Copy the \*.png files to Archi's plugin/com.archimatetool.editor/img/archimate folder
 
 ## Use
 
